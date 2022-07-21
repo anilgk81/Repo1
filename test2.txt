@@ -10,3 +10,6 @@ How to Branch and Merge:
 	git merge "branch name"
 note: always checkout master and merge the branch to master
 
+4. delete branch
+	git branch -d "branch name"  - delete from local
+	git push origin --delete "branch name"  - delete from remote
