@@ -1,0 +1,12 @@
+How to Branch and Merge:
+
+1. Create branch
+	git branch "branch name"
+
+2. checkout branch
+	git checkout "branch name"
+
+3. merge new branch in master branch
+	git merge "branch name"
+note: always checkout master and merge the branch to master
+
