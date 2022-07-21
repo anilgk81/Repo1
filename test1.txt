@@ -1,1 +1,17 @@
-change 1
+Commands to init git and repo
+
+1. After download and install git, add your project to git
+
+2. git commands to 
+
+git config --global user.email "yourGitHub@email.com"
+git config --global user.name "YourGitHubusername"
+
+- git init
+- git status
+- git add
+- git commit -m "message...."
+- git remot add origin https://github.com/anilgk81/Repo1.git
+- git push -u origin master
+- git log
+- git --help
